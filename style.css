@@ -1,0 +1,23 @@
+.main_container{
+
+  color: #000;
+  text-align: center;
+}
+.main_container h1{
+padding: 20px;
+}
+.main_container .containerbox{
+  background-color: gray;
+}
+.main_container .containerbox p{
+  padding: 10px;
+}
+.main_container .containerbox h3{
+  padding: 5px;
+}
+.navbar{
+  background-color: gray !important;
+}
+a{
+  font-weight: bold;
+}
